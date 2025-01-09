@@ -206,8 +206,8 @@ kramdown:
 
 # Includes & excludes
 include: #["_pages"]
-  - about.md
-  - publications.md
+  - _pages/about.md
+  - _pages/publications.md
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -228,13 +228,13 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - repositories.md
-  - projects.md
-  - news.md
-  - cv.md
-  - teaching.md
-  - people.md
-  - blog.md
+  - _pages/repositories.md
+  - _pages/projects.md
+  - _pages/news.md
+  - _pages/cv.md
+  - _pages/teaching.md
+  - _pages/people.md
+  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
