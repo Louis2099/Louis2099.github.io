@@ -229,7 +229,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/repositories.md
-  - _pages/projects.md
+  # - _pages/projects.md
   - _pages/news.md
   - _pages/cv.md
   - _pages/teaching.md
