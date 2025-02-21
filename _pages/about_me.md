@@ -1,0 +1,1 @@
+My name is Jiaxing Li, I'm a master's student at Carnegie Mellon University Electrical and Computer Engineering, My research interests lies in the intersection of robotics, embodied AI, control theory and computer vision.
