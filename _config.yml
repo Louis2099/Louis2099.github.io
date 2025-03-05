@@ -235,6 +235,7 @@ exclude:
   - _pages/teaching.md
   - _pages/people.md
   - _pages/blog.md
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -299,7 +300,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: ["Li"]
-  first_name: ["Jiaxing"]
+  first_name: ["Jiaxing(Louis)"]
 
   style: apa
   locale: en

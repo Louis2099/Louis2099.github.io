@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: HACKER FAB
+description: In CMU HACKER FAB We design, build, document, and share DIY machines and processes to fabricate semiconductor devices in any room, for anyone with access to the Internet.
+img: assets/img/hacker_fab.jpg
 importance: 1
 category: work
 related_publications: true
