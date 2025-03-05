@@ -23,4 +23,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-My name is Jiaxing Li, I am currently an ECE master student at the Carnegie Mellon University, I'm currently working on emboided AI, robotics and control theory.
+My name is Jiaxing Li, I'm a master's student at Carnegie Mellon University Electrical and Computer Engineering, My research interests lies in the intersection of robotics, embodied AI, control theory and computer vision.
