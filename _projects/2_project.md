@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Target tracking bot powered with YOLOv8
+description: Using IssaccROS and YOLOv8 to power the JetBot to detect and track 80 classes from the COCO dataset.
 img: assets/img/3.jpg
 importance: 2
 category: work

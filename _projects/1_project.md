@@ -8,11 +8,18 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In my free time I worked with CMU Hacker Fab designing lab automation robot, specially, lithography system, during which I helped with the designing of [stepper v2.1](https://github.com/hacker-fab/stepper_cad)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/stepperv2.1.webp" title="Stepper v2.1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    CAD design of Stepper v2.1 for the lithography system.
+</div>
+
+<!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -76,6 +83,6 @@ Here's the code for the last row of images above:
     {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+``` -->
 
 {% endraw %}
