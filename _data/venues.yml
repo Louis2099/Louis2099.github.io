@@ -4,3 +4,19 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"IEEE L-CSS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782633
+  color: "#003f7f"
+
+"ITSC":
+  url: https://ieee-itsc.org/
+  color: "#1f77b4"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"ICASSP":
+  url: https://2024.ieeeicassp.org/
+  color: "#ff7f0e"
