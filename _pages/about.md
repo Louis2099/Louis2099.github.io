@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-My name is Jiaxing(Louis) Li, I'm a master student at Carnegie Mellon University Electrical and Computer Engineering, fortunately advised by Prof. [Changliu Liu](http://icontrol.ri.cmu.edu/people/changliu.html). My research interests lies in the intersection of robotics, control theory, physical intellignece and computer vision. During the free time I work with [CMU HACKER FAB](https://hackerfab.ece.cmu.edu/), where we design automated semiconductor fabrication machines.
+My name is Jiaxing(Louis) Li, I'm a master student at Carnegie Mellon University Electrical and Computer Engineering, fortunately advised by Prof. [Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/). My research interests lies in the intersection of robotics, control theory, physical intellignece and computer vision. During the free time I work with [CMU HACKER FAB](https://hackerfab.ece.cmu.edu/), where we design automated semiconductor fabrication machines.
