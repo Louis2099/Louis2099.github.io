@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Object Tracking Robot
+title: Object Tracking Robot
 description: A ROS2-based autonomous robot using YOLOv8 and Isaac ROS for real-time detection and tracking of 80 COCO dataset objects with stereoscopic depth perception.
 img: assets/img/project_img/project2/Finding the Teddy Bear_short - SD 480p.gif
 importance: 2

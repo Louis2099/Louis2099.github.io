@@ -12,7 +12,7 @@ profile:
     <p>34.140308, -118.355071</p>
     
 
-news: False # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 selected_projects: true # includes a list of selected projects (sorted by importance)
 social: true # includes social icons at the bottom of the page
