@@ -14,6 +14,7 @@ profile:
 
 news: False # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_projects: true # includes a list of selected projects (sorted by importance)
 social: true # includes social icons at the bottom of the page
 ---
 
