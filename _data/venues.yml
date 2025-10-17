@@ -20,3 +20,6 @@
 "ICASSP":
   url: https://2024.ieeeicassp.org/
   color: "#ff7f0e"
+
+"Coming Soon":
+  color: "#808080"
