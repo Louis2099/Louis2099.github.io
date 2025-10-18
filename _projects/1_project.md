@@ -2,7 +2,7 @@
 layout: page
 title: HACKER FAB
 description: Designing DIY lithography systems for accessible semiconductor fabrication - contributing to Stepper v2.1, a precision optical patterning tool.
-img: assets/img/hacker_fab.jpg
+img: assets/img/project_img/project1/stepperv2.1.webp
 importance: 1
 category: work
 related_publications: true
