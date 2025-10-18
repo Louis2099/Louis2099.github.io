@@ -6,7 +6,6 @@ img: assets/img/project_img/project2/Finding the Teddy Bear_short - SD 480p.gif
 importance: 2
 category: work
 giscus_comments: true
-# github: https://github.com/w3ichen/18842_A7.git
 ---
 
 ## Overview
