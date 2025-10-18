@@ -6,6 +6,7 @@ img: assets/img/hacker_fab.jpg
 importance: 1
 category: work
 related_publications: true
+github: https://github.com/hacker-fab/stepper_cad
 ---
 
 ## Overview

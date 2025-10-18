@@ -23,4 +23,4 @@ I'm a master student at Carnegie Mellon University Electrical and Computer Engin
 
 
 During the free time I work with [CMU HACKER FAB](https://hackerfab.ece.cmu.edu/), where we design automated semiconductor fabrication robots,
-And I also like scuba diving 🐠, snowboarding 🏂, and fishing 🎣.
+And I also like tennis 🎾, snowboarding 🏂, and fishing 🎣.
