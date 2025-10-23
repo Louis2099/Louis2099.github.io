@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I'm a research assistant at Robotics Institute, Carnegie Mellon University, fortunately advised by Prof. [Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/), I'm also working closely with Prof. [Sebastian Scherer](https://theairlab.org/highlight-macvo-bestpaper/) and [Yorie Nakahira](https://www.cmu.edu/ece/learning-control/). Piror to that I earned my M.S(2025) in Electrical and Computer Engineering from CMU and B.S(2023) in ECE from the [City University of Hong Kong](https://www.ee.cityu.edu.hk/). 
+I'm a research assistant at Robotics Institute, Carnegie Mellon University, fortunately advised by Prof. [Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/), I'm also working closely with Prof. [Sebastian Scherer](https://theairlab.org/highlight-macvo-bestpaper/) and [Yorie Nakahira](https://www.cmu.edu/ece/learning-control/). Piror to that I completed my M.S(2025) in Electrical and Computer Engineering from CMU and B.S(2023) in ECE from the [City University of Hong Kong](https://www.ee.cityu.edu.hk/). 
 My research interests lies in the intersection of control theory and robot learning, and my goal is to acheive optimized performance and safety tradeoff for multitasking robot agents.
 
 
